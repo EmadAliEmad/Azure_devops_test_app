@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: Eslampool
+  name: emadpool
 
 variables:
   solution: '**/*.sln'
